@@ -1,0 +1,19 @@
+{
+    "name": "iagosm/gestormanutencao",
+    "description": "Projeto criado para gestao de uma loja de manutençao de celular e outros aparelhos",
+    "autoload": {
+      "psr-4": {
+        "Controllers\\":"Controllers/",
+        "Models\\":"Models/",
+        "Core\\":"Core/",
+        "Libs\\":"Libs/"
+      }
+    },
+    "authors": [
+      {
+        "name": "Iago Sousa",
+        "email": "iagosousa201486@gmail.com"
+      }
+    ],
+    "require": {}
+}
